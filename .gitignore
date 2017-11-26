@@ -1,0 +1,13 @@
+/Package/
+/deploy file/
+.DS_Store
+.settings/
+/source code/*/.myeclipse/
+/source code/*/.classpath
+*.zip
+classes/
+lib/
+META-INF/
+.project
+*.jar
+.mymetadata
